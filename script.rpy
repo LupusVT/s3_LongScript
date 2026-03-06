@@ -8,6 +8,7 @@ init python:
     RENPY_IMG_PATH = "images/characters/"
     RENPY_IMG_PATH_011 = "images/01_Leyla_sprite/011_Pajama_EXPR/"
     RENPY_IMG_PATH_021 = "images/02_Hannah_sprite/021_WhiteSatin_EXPR/"
+    RENPY_IMG_PATH_1041 = "images/10_ENV/104_LivingRoom/1041_ENV/"
 
     def fLogging(message, level="INFO", show_in_console=True):
         log_file_path = "log/game_log.txt" 

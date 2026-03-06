@@ -1,3 +1,0 @@
-image Hannah H_whitesatin_s0_smile_1 = RENPY_IMG_PATH + f"Hannah_Expr1_Pose1_Action0_ClothWhiteSatin1__POV01_LivingRoom_0.png"
-image Hannah H_whitesatin_s0_embarrassed_1 = RENPY_IMG_PATH + f"Leyla_Expr24_Pose1_Action0_ClothPajama101_POV01_Kitchen_0.png"
-
